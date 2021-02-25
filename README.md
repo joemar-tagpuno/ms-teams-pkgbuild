@@ -1,4 +1,4 @@
-# Build MS Teams App for Arch Linux
+# Build [MS Teams](https://techcommunity.microsoft.com/t5/microsoft-teams/ct-p/MicrosoftTeams) App for Arch Linux
 
 ## Build Package
 
@@ -10,4 +10,4 @@
 
 ## Download MS Teams
 
-Download MS Teams package [here](https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/)
+Download MS Teams package [here](https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/).
