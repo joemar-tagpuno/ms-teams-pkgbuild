@@ -1,4 +1,4 @@
-Maintainer: Joemar Tagpuno (https://joemartagpuno.info)
+# Maintainer: Joemar Tagpuno (https://joemartagpuno.info)
 pkgname=teams
 pkgver='1.3.00.30857'
 pkgrel=1
